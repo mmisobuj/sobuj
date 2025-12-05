@@ -1,6 +1,6 @@
 <!-- Banner or animated GIF -->
 <p align="center">
-  <img src="https://mmisobuj.github.io/sobuj.github.io/profile.jpg" width="80%" alt="Welcome Banner">
+  <img src="https://mmisobuj.github.io/sobuj.github.io/profile.jpg" width="30%" alt="Welcome Banner" height=30%"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Mohidul Islam Sobuj</h1>

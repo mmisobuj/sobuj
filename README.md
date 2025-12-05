@@ -4,7 +4,9 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Mohidul Islam Sobuj</h1>
-<h3 align="center">Data Science | Machine Learning | Deep Learning | AI Enthusiast | Software Architect | Automation Advocate from Bangladesh</h3>
+<h3 align="center">
+  Software Architect | ASP.NET Core | MVC | CA | Docker | CI/CD | AWS | Kubernetes | AI | ML | LLM | GitHub Copilot  | Automation Advocate from Bangladesh
+</h3> 
 
 <hr/>
 
@@ -22,13 +24,14 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently working on: **Data Science, Machine Learning, Deep Learning, and AI projects**
+- 🔭 Currently working on a **robust, scalable ERP solution for Amber IT**, including major roles in a government project and IT consultancy.
+- 🤖 I leverage **GitHub Copilot and AI-assisted coding tools to accelerate software development by 10x**, delivering innovative solutions faster and with high quality.
+- 🏢 Leading the **design, development, and distribution of AI-based solutions** for enterprise-scale clients.
 - 🌱 Currently learning: **Deep Learning & Artificial Intelligence**
 - 🤝 Open to collaboration: [LinkedIn](https://www.linkedin.com/in/mohidul-islam-sobuj)
-- 🚀 Looking for help with: **Artificial Intelligence**
 - 👨‍💻 Check out my work: [GitHub Portfolio](https://github.com/mmisobuj)
 - 📝 Regular article updates: [Twitter](https://twitter.com/sobuj_ah)
-- 💬 Ask me about: **DS · ML · DL · AI**
+- 💬 Ask me about: **DS · ML · DL · AI · Enterprise Software Architecture · Rapid Prototyping**
 - 📫 Reach me at: [Twitter](https://twitter.com/sobuj_ah)
 - 📄 Know more about me: [LinkedIn Profile](https://www.linkedin.com/in/mohidul-islam-sobuj)
 - ⚡ Fun fact: _"I dream about working for Google someday!"_
